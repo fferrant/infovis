@@ -5,6 +5,9 @@ github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 Make over monday semana 15:
 https://fferrant.github.io/infovis/MessiVsRonaldo.html
 
+Make over monday semana 15 V2:
+https://fferrant.github.io/infovis/MessiVsRonaldoV2.html
+
 Make over monday semana 18:
 https://fferrant.github.io/infovis/analisis.html
 
