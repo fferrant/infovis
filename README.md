@@ -2,6 +2,9 @@
 
 github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+Trabajo práctico datos personales:
+https://fferrant.github.io/infovis/datospersonales.html
+
 Make over monday semana 15:
 https://fferrant.github.io/infovis/MessiVsRonaldo.html
 
