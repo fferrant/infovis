@@ -11,6 +11,9 @@ https://fferrant.github.io/infovis/MessiVsRonaldoV2.html
 Make over monday semana 16:
 https://fferrant.github.io/infovis/foodCO2.html
 
+Make over monday semana 17:
+https://fferrant.github.io/infovis/petrolprice.html
+
 Make over monday semana 18:
 https://fferrant.github.io/infovis/analisis.html
 
