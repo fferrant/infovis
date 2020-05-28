@@ -7,6 +7,7 @@ https://fferrant.github.io/infovis/datospersonales.html
 
 Trabajo práctico datos personales V2:
 https://fferrant.github.io/infovis/datospersonales2.html
+https://public.flourish.studio/story/367394/
 
 Make over monday semana 15:
 https://fferrant.github.io/infovis/MessiVsRonaldo.html
