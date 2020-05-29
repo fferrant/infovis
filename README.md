@@ -33,3 +33,5 @@ https://fferrant.github.io/infovis/Mom2020w20.html
 Make over monday semana 21:
 https://fferrant.github.io/infovis/music.html
 
+Make over monday semana 21 V2:
+https://fferrant.github.io/infovis/music2.html
