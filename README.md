@@ -35,3 +35,6 @@ https://fferrant.github.io/infovis/music.html
 
 Make over monday semana 21 V2:
 https://fferrant.github.io/infovis/music2.html
+
+Make over monday semana 22:
+https://fferrant.github.io/infovis/tanzania.html
