@@ -41,3 +41,6 @@ https://fferrant.github.io/infovis/tanzania.html
 
 Make over monday semana 22 V2:
 https://fferrant.github.io/infovis/tanzania2.html
+
+Make over monday semana 23:
+https://fferrant.github.io/infovis/meat.html
