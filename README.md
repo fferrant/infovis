@@ -50,3 +50,6 @@ https://fferrant.github.io/infovis/meat.html
 
 Make over monday semana 23 V2:
 https://fferrant.github.io/infovis/meat2.html
+
+Make over monday semana 24:
+https://fferrant.github.io/infovis/soccergirls.html
