@@ -1,4 +1,5 @@
-# infovis
+# infovis: Repositorio con link a visualizaciones en tableau/flourish.
+
 
 github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
