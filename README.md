@@ -54,3 +54,6 @@ https://fferrant.github.io/infovis/meat2.html
 
 Make over monday semana 24:
 https://fferrant.github.io/infovis/soccergirls.html
+
+Make over monday semana 27:
+https://fferrant.github.io/infovis/mental.html
