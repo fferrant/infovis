@@ -57,3 +57,6 @@ https://fferrant.github.io/infovis/soccergirls.html
 
 Make over monday semana 27:
 https://fferrant.github.io/infovis/mental.html
+
+Make over monday semana 27 V2:
+https://fferrant.github.io/infovis/mental2.html
